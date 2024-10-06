@@ -1,6 +1,6 @@
 # 조건문의 활용
 
-```js
+```html
  <input
       id="night_day"
       type="button"
