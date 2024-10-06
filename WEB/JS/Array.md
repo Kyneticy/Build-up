@@ -12,8 +12,11 @@
 
 <br>
 
-'''html
+```html
+<body>
+    <h1>Array</h1>
 
+    <h2>Syntax</h2>
     <!-- 수납 공간 생성 !! -->
     <script>
       var coworkers = ["egoing", "leezche"];
@@ -38,5 +41,5 @@
     <script>
       document.write(coworkers.length);
     </script>
-
-  '''
+  </body>
+  ```
