@@ -12,7 +12,7 @@
 
 <br>
 
-"'''"html
+'''html
   <body>
     <h1>Array</h1>
 
@@ -42,4 +42,4 @@
       document.write(coworkers.length);
     </script>
   </body>
-  "'''"
+  '''
